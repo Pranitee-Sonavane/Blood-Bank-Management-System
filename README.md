@@ -1,15 +1,15 @@
-# Travel and Tourism Management System
+# Blood Bank Management System
 
 ## 📌 Project Description
-The Travel and Tourism Management System is a Java-based project designed to streamline the process of managing travel bookings, itineraries, and customer details. This system provides an efficient way to manage tourism services and enhances user experience by automating various tasks.
+The Blood Bank Management System is a Java-based application designed to efficiently manage blood donations, inventory, and donor records. This system streamlines the process of blood donation and ensures that hospitals and patients can quickly access available blood units.
 
 ## 🚀 Features
 - User registration and login system
-- Travel package booking and management
-- Payment processing integration
-- Admin dashboard for managing bookings and users
-- Real-time notifications and updates
-- Secure database storage for customer details
+- Donor details management
+- Blood inventory tracking
+- Hospital and patient request management
+- Blood donation and collection history
+- Secure database storage for all records
 
 ## 🛠️ Tech Stack
 - **Frontend:** Java Swing
@@ -20,35 +20,31 @@ The Travel and Tourism Management System is a Java-based project designed to str
 ## 📌 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Pranitee-Sonavane/Travel-And-Tourism-Management-System.git
+   git clone https://github.com/Pranitee-Sonavane/Blood-Bank-Management-System.git
    ```
 2. Open the project in your preferred Java IDE (Eclipse/IntelliJ IDEA).
 3. Configure the MySQL database and update connection details in the project.
 4. Compile and run the application.
-5. Use the GUI to explore travel packages, book trips, and manage your profile.
-1. Launch the application and log in with your credentials.
-2. Browse available travel packages and select your destination.
-3. Proceed with booking and make payments.
-4. View booking history and manage future trips.
-5. Admin can monitor and manage user bookings efficiently.
+5. Use the GUI to register donors, manage blood inventory, and process blood requests.
 
 
 ## 🔮 Future Scope
-- Integration of AI-based recommendations for travel packages.
-- Mobile application version for better accessibility.
-- Multi-language support for international users.
-- Enhanced security features for user data protection.
+- Integration of AI-based blood demand prediction.
+- Mobile application version for easy access.
+- SMS alerts for donors and hospitals.
+- Enhanced security features for data protection.
 
 
 ## 🎯 Key Highlights
-- Successfully implemented as a Java-based desktop application.
-- Demonstrated efficient management of tourism services.
+- Successfully developed as a Java-based desktop application.
+- Efficiently manages blood donation records and hospital requests.
 
 ## 👨‍💻 Contributors
-- **Pranitee Sonavane**  
-- **Aditi Revankar**  
-- **Poonam Nelure**  
+- **Pranitee Sonavane**
+- **Poonam Nelure**
 - **Prajakta Upare**
+- **Aditi Revankar**
+
 
 ---
 💡 *If you find this project helpful, please ⭐ the repo!*
